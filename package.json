@@ -1,4 +1,7 @@
 {
+  "engines": {
+    "node": "18.x"
+  },
   "type": "module",
   "name": "project",
   "version": "1.0.0",
